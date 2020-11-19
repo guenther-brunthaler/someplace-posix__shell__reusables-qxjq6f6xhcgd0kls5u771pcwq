@@ -1,0 +1,9 @@
+#! /bin/sh
+
+# a9hpguh5ddnq25ycsf7hiq5kj v2020.324 {
+dir0=`dirname -- "$0"`; dir0=`readlink -f -- "$dir0"`; test -d "$dir0"
+libdir=$dir0/sh; test -d "$libdir"
+# } a9hpguh5ddnq25ycsf7hiq5kj 
+. "$libdir"/cleanup-37yusympssv3vb63uavsipr7u.sh
+. "$libdir"/fsize-4rdwih8qv64bnb5wvizl2l61s.sh
+. "$libdir"/validate_uint-r29t167e1xmvyk7trebvq0l9y.sh
